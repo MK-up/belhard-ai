@@ -6,3 +6,6 @@ lesson_4-credit-scoring
 Реализован модуль загрузки данных из CSV
 Модуль визуализации данных
 Методы определения и заполнения пустых значений в DataFrame.
+
+lesson_6-pizza-lovers
+Датасет по https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales/data?select=pizzas.csv 
